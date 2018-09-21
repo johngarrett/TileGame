@@ -1,3 +1,16 @@
+#Tile Game
+This was my first and only major Java project. 
+
+I used Java.AWT for the graphics which I was told is what makes the game run poorly.
+
+I do NOT intend to revist this program ever again. 
+
+
+
+
+
+<b> This is what I sent to my teacher:</b>
+
 The RES folder is required to get the game running. Since canvas only lets me upload files and not folders,
 you will have to add all the .png files into a folder called textures within a folder called Res.
 Secondly, you will have to put world1.txt into a folder called worlds within the same Res folder. 
