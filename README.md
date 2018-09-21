@@ -1,4 +1,4 @@
-#Tile Game
+# Tile Game
 This was my first and only major Java project. 
 
 I used Java.AWT for the graphics which I was told is what makes the game run poorly.
